@@ -1,0 +1,234 @@
+@media only screen and (max-width: 1200px) {
+    .aboutdefi h2 {
+        font-size: 30px;
+    }
+
+    .gallery {
+        top: 110px;
+    }
+
+}
+
+@media only screen and (max-width: 1130px) {
+    .into {
+        background-size: 150vw;
+    }
+
+    .singer {
+        flex-direction: column;
+        height: 600px;
+    }
+
+    .singer img {
+        width: 280px;
+        height: 280px;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .aboutsinger {
+        margin: 0px 0px 140px 0px;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .anav {
+        font-size: 25px;
+    }
+
+    .froshlogo {
+        width: 75px;
+    }
+
+    .xlogo {
+        height: 30px;
+        width: 150px;
+    }
+
+    /* .navdiv{
+        margin: 0px 0px 0px 0px;
+    } */
+    .intro h1 {
+        font-size: 70px;
+    }
+
+    .introa {
+        font-size: 50px;
+    }
+
+    .introb {
+        font-size: 22px;
+    }
+
+    .intro h2 {
+        font-size: 50px;
+    }
+
+    .aboutdefi h2 {
+        font-size: 20px;
+    }
+
+    .about h1 {
+        font-size: 50px;
+        margin: 10px 0px 15px 0px;
+    }
+
+    .img2 {
+        width: 250px;
+        height: 140px;
+    }
+
+    .gallery button {
+        height: 32px;
+        font-weight: 300;
+        right: 130px;
+        top: -110px;
+    }
+
+    .aboutelements {
+        flex-direction: column;
+        align-items: center;
+        margin: -100px 0px 0px 0px;
+        height: 360px;
+    }
+
+    .gallery {
+        top: -80px;
+    }
+
+    .lastpart h1 {
+        font-size: 35px;
+        margin: 15px 0px 15px 0px
+    }
+
+    .form input {
+        width: 300px;
+        height: 35px;
+        font-size: 10px;
+        margin: -10px 20px -5px 20px;
+    }
+
+    .formbtn {
+        height: 25px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+    .attend h1 {
+        font-size: 40px;
+        margin: 20px 0px -40px 0px;
+    }
+
+    .attendperks h2 {
+        font-size: 25px;
+    }
+
+    .attendperks p {
+        font-size: 15px;
+    }
+
+    .attendperks h2 svg {
+        width: 30px;
+        height: 30px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 900px) {
+    .anav {
+        font-size: 15px;
+    }
+
+    .navdiv {
+        justify-content: center;
+        margin: -20px 225px;
+    }
+
+    .into {
+        background-size: 220vw;
+        width: 170vw;
+    }
+
+    .intro {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .sep {
+        width: 170%;
+    }
+
+    .aboutelements {
+        width: 200%;
+        height: 300px;
+    }
+
+    .about {
+        margin: 0px 0px 2px 615px;
+    }
+
+    .aboutdefi h2 {
+        font-size: 15px;
+    }
+
+    .about h1 {
+        font-size: 30px;
+    }
+
+    .img2 {
+        width: 190px;
+        height: 110px;
+    }
+
+    .gallery button {
+        right: 95px;
+        top: -95px;
+    }
+
+    .gallery {
+        top: -58px;
+    }
+
+    .singer {
+        background-size: 200vw;
+        width: 150%;
+        height: 500px;
+    }
+
+    .singer img {
+        width: 170px;
+        height: 170px;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .aboutsinger {
+        margin: 0px 0px 140px 0px;
+    }
+
+    .aboutsinger h1 {
+        font-size: 34px;
+    }
+
+    .aboutsinger p {
+        font-size: 20px;
+    }
+
+    .attend {
+        width: 150%;
+    }
+
+    .lastpart {
+        background-size: 200vw;
+        width: 170vw;
+    }
+
+    .lastpart h1 {
+        margin: 15px 0px 15px 50px;
+    }
+
+    .form form {
+        margin: 4px 0px 50px 75px;
+    }
+
+}
